@@ -6,3 +6,4 @@ links:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🡮 [_youtube](https://www.youtube.com/@iicaras)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🡮 [_twitter](https://x.com/_iicaras)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🡮 [_soundcloud](https://soundcloud.com/iicaras)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🡮 [_twitch](https://www.twitch.tv/iicarasart)<br>
