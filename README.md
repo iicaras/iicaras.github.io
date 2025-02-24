@@ -34,6 +34,7 @@ Website & portfolio are works in progress.
 🡮 [\_poly-grid/iic - Patch - 4D Wavetable - 02.bwpreset](/files/presets/poly-grid/iic%20-%20Patch%20-%204D%20Wavetable%20-%2002.bwpreset)<br>
 🡮 [\_harmonic-split/iic - Rack - Random Band Pitcher.bwpreset](files/presets/harmonic-split/iic%20-%20Rack%20-%20Random%20Band%20Pitcher.bwpreset)<br>
 🡮 [\_fx-grid/iic - Patch - LR Delay (Haas).bwpreset](files/presets/fx-grid/iic%20-%20Patch%20-%20LR%20Delay%20(Haas).bwpreset)<br>
+🡮 [\_poly-grid/iic - Patch - XY Phase Dist - 01.bwpreset](files/presets/poly-grid/iic%20-%20Patch%20-%20XY%20Phase%20Dist%20-%2001.bwpreset)<br>
 
 ### 🡺 \_Wavetables
 🡮 [\_iic - Util - Phase Dist - Asym.wav](/files/wavetables/iic%20-%20Util%20-%20Phase%20Dist%20-%20Asym.wav)<br>
