@@ -23,6 +23,7 @@ Website & portfolio are works in progress.
 🡮 [\_harmonics.md](https://gist.github.com/iicaras/9acfe1b65d2f3555211deeb3eec95e1b)<br>
 🡮 [\_note-frequencies.md](https://gist.github.com/iicaras/430ba2f6bd7b1f250fe8664a3cbef987)<br>
 🡮 [\_wavetables.md](https://gist.github.com/iicaras/f63dc9fcc3f9a83ccaf2de3fbc9fbb5a)<br>
+🡮 [\_mid-side-separation.md](/articles/mid-side-separation.md)<br>
 
 ### 🡺 \_Programmes
 
