@@ -21,7 +21,7 @@ Website & portfolio are works in progress.
 
 ### 🡺 \_Works
 
-🡮 _`Nightwave Fragment (iicaras Remix)` featured on `RachelTypeX - SHAPESHIFTER` ([spotify](), [bandcamp](https://racheltypex.bandcamp.com/album/shapeshifter-2), [subvert](https://www.subvert.fm/racheltypex/shapeshifter), [youtube](https://www.youtube.com/playlist?list=PL-Ax3Ih1kaM1OPoDp2dHiVKsBrUqF__nf))<br>
+🡮 _`Nightwave Fragment (iicaras Remix)` featured on `RachelTypeX - SHAPESHIFTER` ([spotify](https://open.spotify.com/album/13TtMcoHz0JtUYlpb5HAXk), [bandcamp](https://racheltypex.bandcamp.com/album/shapeshifter-2), [subvert](https://www.subvert.fm/racheltypex/shapeshifter), [youtube](https://www.youtube.com/playlist?list=PL-Ax3Ih1kaM1OPoDp2dHiVKsBrUqF__nf))<br>
 
 ### 🡺 \_Articles
 
