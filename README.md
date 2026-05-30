@@ -14,9 +14,14 @@ Website & portfolio are works in progress.
 🡮 [\_twitter](https://x.com/_iicaras)<br>
 🡮 [\_soundcloud](https://soundcloud.com/iicaras)<br>
 🡮 [\_twitch](https://www.twitch.tv/iicarasart)<br>
+🡮 [\_spotify](https://open.spotify.com/artist/2GdSKphbr0wmEt5HxCa1jk)<br>
 
 🡮 [\_github](https://github.com/iicaras)<br>
 🡮 [\_gist](https://gist.github.com/iicaras)<br>
+
+### 🡺 \_Works
+
+🡮 _`Nightwave Fragment (iicaras Remix)` featured on `RachelTypeX - SHAPESHIFTER` ([spotify](), [bandcamp](https://racheltypex.bandcamp.com/album/shapeshifter-2), [subvert](https://www.subvert.fm/racheltypex/shapeshifter), [youtube](https://www.youtube.com/playlist?list=PL-Ax3Ih1kaM1OPoDp2dHiVKsBrUqF__nf))<br>
 
 ### 🡺 \_Articles
 
@@ -42,3 +47,9 @@ Website & portfolio are works in progress.
 🡮 [\_iic - Util - Phase Dist - Asym+.wav](/files/wavetables/iic%20-%20Util%20-%20Phase%20Dist%20-%20Asym%2B.wav)<br>
 🡮 [\_iic - Util - Phase Dist - Asym-.wav](/files/wavetables/iic%20-%20Util%20-%20Phase%20Dist%20-%20Asym-.wav)<br>
 🡮 [\_iic - Util - Phase Dist - PWM.wav](/files/wavetables/iic%20-%20Util%20-%20Phase%20Dist%20-%20PWM.wav)<br>
+
+### 🡺 \_Contact
+
+Amy<br>
+
+🡮 _email: iicarasart@gmail.com<br>
